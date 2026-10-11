@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/jellutide/sitemap.xml
+Sitemap: https://jellutide.vercel.app/sitemap-vercel.xml
+Sitemap: https://jellutide.pages.dev/sitemap-cloudflare.xml
